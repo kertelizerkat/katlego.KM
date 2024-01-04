@@ -1,0 +1,30 @@
+
+The Python Code Encrypts and Decrypts a given file using binary and cipher reverse method my own invention, 
+ In oder for the python file to work 100% accurately, read and follow the instructions below :
+
+
+1. ensure that you have a python interpreter or compiler
+  1.1 RUN THE CODE
+  1.2 input a drive letter that your running the code on
+  1.2  The code will overwrite itself after you have chosen a drive letter .
+  1.3 Close the CODE and run it again 
+
+2. ensure that the code is always in the folder (project2) and do not put the project2 folder inside a specific folder ! (it must not be a subfolder).
+ 2.1 If you chose the drive letter C: , your project2 folder must be contained in the C drive like this (C:\project2).
+ 
+3. The file that you are encrypting must be in the folder (project2)
+
+4. write your file path as (e.g. index.html or assay.txt) always include the filename and extension
+
+5. input (E) for Encryption or (D) for Dycryption
+
+5 input file extension as (e.g .txt or  .py , etc) of the file your are encrypting
+
+6.Use the same extention of your file everywhere
+
+THE CODE CAN ONLY ENCRYPT TEXT FILES NOT IMG, VIDEOS , ETC.
+
+To get the FULL CODE contact me using the details given on my website 
+
+notice! you can only decrypt a specific file if only you encrypted it using the same method!. The code can only decrypt ANY TEXT FILE if encrypted with the same method
+
